@@ -1,0 +1,15 @@
+/* gridster.component.css */
+.gridster-height{
+    height: 100vh;
+    
+}
+
+.gridster-item-inner {
+    background: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    height: 100%; 
+
+  }
